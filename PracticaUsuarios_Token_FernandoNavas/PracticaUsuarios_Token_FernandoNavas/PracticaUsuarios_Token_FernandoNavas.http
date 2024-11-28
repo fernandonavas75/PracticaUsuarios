@@ -1,0 +1,6 @@
+@PracticaUsuarios_Token_FernandoNavas_HostAddress = http://localhost:5265
+
+GET {{PracticaUsuarios_Token_FernandoNavas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
